@@ -17,7 +17,7 @@ body{
     position: absolute;
     top: 0.5em;
     margin-top:0;
-    right: 5em;
+    right: 4em;
     width: 10em;
     margin-right: auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -30,8 +30,8 @@ body{
 
 .line-2{
     position: absolute;
-    top: 3em;
-    right: 2em;
+    top: 2em;
+    right: 1em;
     width: 16em;
     margin-right: auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -45,7 +45,7 @@ body{
 /* Animation */
 .anim-typewriter-stop{
   animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(30) 10 1s normal;
+             blinkTextCursor 500ms steps(30) 4 1s normal;
 }
 
 .anim-typewriter{
@@ -67,7 +67,7 @@ body{
   max-width: 400px;
   height: auto;
   position:absolute;
-  right: 12em;
+  right: 14em;
   bottom: 2em;
 }
 
