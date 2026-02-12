@@ -14,7 +14,9 @@ body{
   background-color: rgb(25,25,25);  
 }
 .line-1{
-    position: relative;
+    position: absolute;
+    top: 1em;
+    right: 5em;
     width: 10em;
     margin-right: auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -26,7 +28,9 @@ body{
 }
 
 .line-2{
-    position: relative;
+    position: absolute;
+    top: 3em;
+    right: 5em;
     width: 16em;
     margin-right: auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -61,7 +65,8 @@ body{
   width: 100%;
   max-width: 400px;
   height: auto;
-  right: 1em;
+  position:absolute;
+  right: 5em;
   bottom: 2em;
 }
 
