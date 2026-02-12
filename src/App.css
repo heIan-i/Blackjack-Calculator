@@ -7,8 +7,8 @@ html{
   overflow: hidden;
 }
 body{
-  height: calc(100vh - 8em);
-  padding: 4em;
+  /*height: calc(100vh - 8em);
+  padding: 4em;*/
   color: rgba(255,255,255,.75);
   font-family: 'Anonymous Pro', monospace;  
   background-color: rgb(25,25,25);  
