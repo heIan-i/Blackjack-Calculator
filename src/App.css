@@ -16,7 +16,7 @@ body{
 .line-1{
     position: relative;
     width: 10em;
-    margin-left: auto;
+    margin-right: auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 500%;
     text-align: right;
@@ -28,7 +28,7 @@ body{
 .line-2{
     position: relative;
     width: 16em;
-    margin-left: auto;
+    margin-right: auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 300%;
     text-align: right;
