@@ -15,7 +15,6 @@ body{
 }
 .line-1{
     position: relative;
-    top: 2%;  
     width: 10em;
     margin-left: auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -23,12 +22,11 @@ body{
     text-align: right;
     white-space: nowrap;
     overflow: hidden;
-    transform: translateY(-50%);    
+    /*transform: translateY(-50%);     */
 }
 
 .line-2{
     position: relative;
-    top: 20%;  
     width: 16em;
     margin-left: auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -36,7 +34,7 @@ body{
     text-align: right;
     white-space: nowrap;
     overflow: hidden;
-    transform: translateY(-50%);  
+    /*transform: translateY(-50%);  */
 }
 
 /* Animation */
@@ -51,11 +49,20 @@ body{
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 10em;}
+  to{width: 100%;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: red;}
   to{border-right-color: transparent;}
+}
+
+
+.cards {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  right: 1em;
+  bottom: 2em;
 }
 
 
