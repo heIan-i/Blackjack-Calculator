@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
   return (
-  <p className="line-1 anim-typewriter">BLACKJACK</p>
+  <p className="line-1 anim-typewriter">blackjack</p>
   )
 }
 

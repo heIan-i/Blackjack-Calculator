@@ -19,8 +19,8 @@ body{
     width: 24em;
     /* margin:0 auto; */
     border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 350%;
-    text-align: center;
+    font-size: 500%;
+    text-align: right;
     white-space: nowrap;
     overflow: hidden;
     transform: translateY(-50%);    
