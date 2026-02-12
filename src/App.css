@@ -40,7 +40,7 @@ body{
 /* Animation */
 .anim-typewriter-stop{
   animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(30) 10 normal;
+             blinkTextCursor 500ms steps(30) 10 1s normal;
 }
 
 .anim-typewriter{
