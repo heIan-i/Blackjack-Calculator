@@ -20,7 +20,7 @@ body{
     right: 4em;
     width: 10em;
     margin-right: auto;
-    border-right: 2px solid rgba(255,255,255,.75);
+    border-right: 2px solid white;
     font-size: 500%;
     text-align: right;
     white-space: nowrap;
@@ -34,7 +34,7 @@ body{
     right: 1em;
     width: 16em;
     margin-right: auto;
-    border-right: 2px solid rgba(255,255,255,.75);
+    border-right: 2px solid white;
     font-size: 300%;
     text-align: right;
     white-space: nowrap;
@@ -67,8 +67,53 @@ body{
   max-width: 400px;
   height: auto;
   position:absolute;
-  right: 14em;
+  right: 13em;
   bottom: 2em;
 }
 
 
+/*left side
+
+body {
+  margin: 0;
+  font-family: monospace, sans-serif;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+/* Left panel: input + output */
+
+/*
+.left-panel {
+  width: 50%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.left-panel textarea {
+  width: 100%;
+  height: 120px;
+  font-family: monospace;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.left-panel button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.left-panel pre {
+  background-color: #e0e0e0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  white-space: pre-wrap;
+}
+
+
+*/
