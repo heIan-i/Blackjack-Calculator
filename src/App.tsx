@@ -1,6 +1,6 @@
 //import { useState } from 'react'
 import './App.css'
-import cards from "./public/cards.jpg";
+import cards from "./cards.jpg";
 
 
 function App() {
