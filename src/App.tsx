@@ -10,7 +10,7 @@ function App() {
   <p className="line-1 anim-typewriter-stop" style={{ animationDelay: "1s" }}>blackjack</p>
 
   <p className="line-2 anim-typewriter" style={{ animationDelay: "4s" }}>beat the odds.</p>
-  <img src={cards} alt="a set of blackjack" className="hero-cards" />
+  <img src={cards} alt="a set of blackjack" className="cards" />
   </>
   )
 }
